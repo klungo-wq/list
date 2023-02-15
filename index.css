@@ -42,6 +42,7 @@ header > h1 {
   color: #fff;
   padding: 0.3em 1.6em;
   border: 1px solid #fff4;
+  text-align: center;
 }
 
 ul { 
@@ -49,6 +50,7 @@ ul {
   list-style: none;
   margin: 0 auto;
   padding: 3em;
+  width: 300px;
 }
 
 ul > li {
@@ -58,6 +60,7 @@ ul > li {
   padding: 3px;
   margin: .9em;
   box-shadow: rgb(28 32 93 / 24%) 0px 2px 8px 0px;
+  height: 1.7em;
 }
 
 ul > li > a {
