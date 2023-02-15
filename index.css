@@ -50,17 +50,15 @@ ul {
   list-style: none;
   margin: 0 auto;
   padding: 3em;
-  width: 300px;
 }
 
 ul > li {
   background-color: #fffa;
   backdrop-filter: blur(10px) saturate(160%) contrast(180%);
   border-radius: .4em;
-  padding: 3px;
+  padding: 10px;
   margin: .9em;
   box-shadow: rgb(28 32 93 / 24%) 0px 2px 8px 0px;
-  height: 1.7em;
 }
 
 ul > li > a {
