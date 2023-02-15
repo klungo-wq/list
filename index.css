@@ -1,16 +1,18 @@
 body, html {
-margin: 0;
-padding: 0;
+margin: 0px;
+padding: 0px;
 font-family:'Times New Roman', Times, serif;
 background: white;
 color: #fff;
 height: 100%;
 width: 100%;
+overflow-x: hidden;
 }
 
 body {
     background: url(./images/alto.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
     -webkit-background-size: cover;
     color: #fff;
     height: 100%;
