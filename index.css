@@ -37,15 +37,16 @@ header > img {
 
 header > h1 {
   display: inline-block;
-  font-size: 0.8em;
+  font-size: 1em;
   font-weight: bold;
   border-radius: 1em;
   background-color: #000a;
   color: #fff;
-  padding: 0.3em 1.6em;
-  border: 1px solid #fff4;
+  padding: 0.8em 2em;
+  border: 0px solid #fff4;
   text-align: center;
   scale: 150%;
+  margin: 3em;
 }
 
 ul { 
