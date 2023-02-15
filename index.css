@@ -29,8 +29,8 @@ header {
 }
 
 header > img {
-    width: 18em;
-    height: 18em;
+    width: 25em;
+    height: 25em;
     border: 3px solid #fff;
     box-shadow: rgb(28 32 93 / 24%) 0px 2px 8px 0px;
 }
@@ -45,6 +45,7 @@ header > h1 {
   padding: 0.3em 1.6em;
   border: 1px solid #fff4;
   text-align: center;
+  scale: 150%;
 }
 
 ul { 
