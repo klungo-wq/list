@@ -10,7 +10,7 @@ overflow-x: hidden;
 }
 
 body {
-    background: url(./images/alto.jpg);
+    background: url(../public/alto.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     -webkit-background-size: cover;
@@ -35,7 +35,7 @@ header > img {
     box-shadow: rgb(28 32 93 / 24%) 0px 2px 8px 0px;
 }
 
-header > h1 {
+header > a > h1 {
   display: inline-block;
   font-size: 1em;
   font-weight: bold;
